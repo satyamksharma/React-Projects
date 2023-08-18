@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap");
+body {
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    overflow-y: hidden;
+}
+
+h1 {
+    font-family: "Rubik Iso", cursive;
+}
+
+.hidden {
+    display: none;
+}
