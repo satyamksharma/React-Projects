@@ -2,6 +2,14 @@
 
 A collection of ReactJS projects for practice and learning.
 
+<br/>
+
+[![Documentation Guru](https://img.shields.io/badge/Documentation%20Guru-%F0%9F%93%9D-blue.svg)](DOCUMENTATION_GURU_LINK)
+[![Community Star](https://img.shields.io/badge/Community%20Star-%F0%9F%8C%9F-green.svg)](COMMUNITY_STAR_LINK)
+[![Newbie Contributor](https://img.shields.io/badge/Newbie%20Contributor-%F0%9F%91%BE-purple.svg)](NEWBIE_CONTRIBUTOR_LINK)
+[![Code Reviewer](https://img.shields.io/badge/Code%20Reviewer-%F0%9F%94%8D-brightgreen.svg)](CODE_REVIEWER_LINK)
+
+
 ## Table of Contents
 
 - Introduction
